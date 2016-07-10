@@ -1,9 +1,6 @@
 Thomas Hepner, April 2016: 
 
-Project code for the Data Science Specialization 
-Capstone. The code uses an English language corpus
-consisting of blogs, news articles, and tweets to build
-a predictive text model. 
+Project code for the Data Science Specialization Capstone. The code uses an English language corpus consisting of blogs, news articles, and tweets to build a predictive text model. 
 
 The final URL is here: https://tenaciousterrier.shinyapps.io/TenaciousTerrierTextPrediction/
 
